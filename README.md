@@ -1,0 +1,1 @@
+I made a simple Asset Management for handling GRN of a company using react js node js express and sql using sequelizer the idea  is to learn orm model for swql using sequelize and to learn basic crud opertion using sql and react.js
